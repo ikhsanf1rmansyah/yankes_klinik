@@ -3,3 +3,4 @@ belajar css
 belajar javascript OOP
 belajar javascript DOM
 belajar bootstrap
+belajar laravel
