@@ -1,2 +1,4 @@
 belajar html
 belajar css
+belajar javascript OOP
+belajar javascript DOM
